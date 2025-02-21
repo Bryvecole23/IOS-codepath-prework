@@ -1,8 +1,8 @@
-# Prework - *WEB102 App*
+# Prework - *IOS101 App*
 
 Submitted by: **Bryce Alexander**
 
-**WEB102 App** is an app that is a personalized application that displays the app owner's name, their current school, and their career aspiration. The app also includes an interactive "Greet" button that changes the screen's background color each time it's tapped, adding a lively, dynamic feel to the user experience.
+**IOS101 App** is an app that is a personalized application that displays the app owner's name, their current school, and their career aspiration. The app also includes an interactive "Greet" button that changes the screen's background color each time it's tapped, adding a lively, dynamic feel to the user experience.
 
 Time spent: ** 3 ** hours spent in total
 
